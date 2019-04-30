@@ -21,7 +21,7 @@ home:
     break;
 goto home;
     case 'e':
-    case 'Ee':
+    case 'E':
     printf("\n\n\nGOOD BYE,,,,SEE YOU AGAIN\n\n\n HAVE A GOOD DAY\n\n\n");
     getch();
     system("cls");
